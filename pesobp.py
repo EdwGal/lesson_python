@@ -39,5 +39,4 @@ def operaciones():
 operaciones()        
 print('Gracias por usar nuestro app')
 opc = input('desea continuar S/N')
-if opc == "S":
-    
+  
