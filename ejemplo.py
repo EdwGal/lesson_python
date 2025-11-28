@@ -92,10 +92,3 @@ x = 1_000
 print(x)  # 1010
 x = 1_000 + 10
 print(x)  # 1
-
-## impresion de pmatalla
-from art import text2art
-result = text2art("Edward")
-print(result)
-result = text2art("bienvenido")
-print(result)
