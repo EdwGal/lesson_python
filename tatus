@@ -1,0 +1,62 @@
+[33mcommit e9d888be6065c55f9616e6beacf2dc3b253d3bad[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: a4b1fd9 0331ddf
+Author: EdwGal <galvezgutierrez@gmail.com>
+Date:   Thu Nov 27 22:29:54 2025 -0500
+
+    Merge branch 'master' of https://github.com/EdwGal/lesson_python
+
+[33mcommit a4b1fd95200e7906b1f9f96f06b7647e569950da[m
+Author: EdwGal <galvezgutierrez@gmail.com>
+Date:   Thu Nov 27 22:25:24 2025 -0500
+
+     prueba ultima
+
+[33mcommit 0331ddf6965a6183985d86387cc5ba99d7fecdcf[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: EdwGal <153396533+EdwGal@users.noreply.github.com>
+Date:   Tue Nov 18 12:08:43 2025 -0500
+
+    Add initial content to README.md
+
+[33mcommit e7095de38be7c19c11c13b859b582ed8beb42f9b[m
+Author: EdwGal <153396533+EdwGal@users.noreply.github.com>
+Date:   Tue Nov 18 00:14:07 2025 -0500
+
+    Add comment at the end of ejemplo.py
+    
+    Added a comment line to the end of the file.
+
+[33mcommit ff3f176eb20397bb7bc5222c137fc6010f012b09[m
+Author: EdwGal <galvezgutierrez@gmail.com>
+Date:   Mon Nov 17 22:17:48 2025 -0500
+
+    se actuliza la impresion de mensajes para aplicaciones con python
+
+[33mcommit db45f8dba9bd81374a4412d51979bb61def8676e[m
+Author: EdwGal <galvezgutierrez@gmail.com>
+Date:   Mon Nov 17 22:17:48 2025 -0500
+
+    se actuliza la impresion de mensajes para aplicaciones con python
+
+[33mcommit 02f93a7a3af0e90a24efb88c8217c4386b43cede[m
+Author: EdwGal <galvezgutierrez@gmail.com>
+Date:   Mon Nov 17 11:26:13 2025 -0500
+
+    se agrego la carpeta para los CSS
+
+[33mcommit 0038edbefc5fc352df903a79ba4c4cbc78766345[m
+Author: EdwGal <galvezgutierrez@gmail.com>
+Date:   Mon Nov 17 11:17:23 2025 -0500
+
+    la primera carga de archivos al repositorio
+
+[33mcommit a94b12e0cdadf4dd92ad90936b348894f98e88d1[m
+Author: EdwGal <galvezgutierrez@gmail.com>
+Date:   Mon Jul 7 22:56:33 2025 -0500
+
+    se esta agregando los bucles al modulo de calculo de pesos de barras
+
+[33mcommit 1a5e10a11e05b56b8e789a89a9fbb1f1d44a0cf4[m
+Author: EdwGal <galvezgutierrez@gmail.com>
+Date:   Mon Jul 7 22:49:12 2025 -0500
+
+    agregar un buble
