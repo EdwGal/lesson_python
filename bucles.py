@@ -4,6 +4,7 @@ CONSTANTEEJE = 0.0062
 CONSTANTEPL = 7.85
 PI = 3.1416
 IGV = 0.18
+opc = 0
 def pesobarra(d1, long1):
     peso_barra = d1*d1*CONSTANTEEJE*long1
     return peso_barra    
