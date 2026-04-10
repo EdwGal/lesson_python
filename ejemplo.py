@@ -77,7 +77,8 @@ print(lst)  # [50, 40, 30, 20, 10
 
 text= "python is fun"
 print(text.capitalize())  # Python is fun
-print(text.title())       # Python Is Fun
+print(text.title())  
+print(text.capitalize()) # Python Is Fun
 
 d= {"a":1}
 print(d.get("b", 0))
@@ -99,4 +100,63 @@ result = text2art("Edward")
 print(result)
 result = text2art("bienvenido")
 print(result)
-## esta linea e sla uqe se amento
+## esta linea e sla uqe se amento0
+my_set ={"edward", "Galvez",50}
+my_list = list(my_set)
+print(my_set)
+print(my_list)
+print(my_list[0])
+##+++++++++++++++++++++++++++++++++
+a = 3.56
+b = 3.56
+print(f"a = {a}")
+print(f"b = {b}")
+# is
+c = a is b
+print(f"a is b = {c}")
+# is not
+c = a is not b
+print(f"a not is b = {c}")
+#####
+a = [1,2,3,4,5]
+print(f"a = {a}")
+#in
+print(f"1 in {a} = {1 in a}")
+print(f"3 in {a} = {3 in a}")
+print(f"0 in {a} = {0 in a}")
+# not in
+print(f"1 not in {a} = {1 not in a}")
+print(f"3 not in {a} = {3 not in a}")
+print(f"0 not in {a} = {0 not in a}")
+#333333333333333333333calcular la base de un triangulo
+base = float(input("Ingrese la base del triangulo: "))
+altura = float(input("Ingrese la altura del triangulo: "))
+area = base * altura / 2
+print(f"El area es: {area:.3f}")
+
+#nuevo ejercico
+import time
+print()
+i=10
+for j in range(10):
+    print("$"*j +"feliz año" + i*" &")
+    time.sleep(0.1)
+#practica
+print(2 ** 2)
+print(5 + 3 * 2 ** 2)
+print(3*1**3)
+
+#calendario
+from calendar import *
+year = 2026
+print(calendar(year, 2, 1, 8, 3))
+
+text="python"
+print(text[-4])
+
+print(int(3.9) + float(2))
+
+import calendar
+year = 2026
+month = 1
+print(calendar.month(year, month))
