@@ -132,6 +132,7 @@ print(f"0 not in {a} = {0 not in a}")
 base = float(input("Ingrese la base del triangulo: "))
 altura = float(input("Ingrese la altura del triangulo: "))
 area = base * altura / 2
+<<<<<<< HEAD
 print(f"El area es: {area:.3f}")
 
 #nuevo ejercico
@@ -160,3 +161,6 @@ import calendar
 year = 2026
 month = 1
 print(calendar.month(year, month))
+=======
+print(f"El area es: {area:.3f}")
+>>>>>>> 477b8e0c54424a327e36e79b84c409dd186cfc4f

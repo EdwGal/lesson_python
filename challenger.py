@@ -48,3 +48,19 @@ clcoding = Code128("123456789012", writer=ImageWriter())
 filename = clcoding.save("barcode_image")
 display(Image(filename="barcode_image.png"))
  
+<<<<<<< HEAD
+=======
+#numero 6
+def misterio(palabra):
+    parte1 = palabra[:2]
+    parte2 = palabra[2:]
+    return parte2 + parte1
+
+print(misterio("PYTHON"))
+
+name = "edward galvez     "
+print(name.title())
+print(name.upper())
+print(name.lower())
+print(name.rstrip())
+>>>>>>> 477b8e0c54424a327e36e79b84c409dd186cfc4f
